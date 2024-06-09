@@ -1,4 +1,4 @@
-# BEVLM: Integrating BEV Features with VLM for Driving with Language
+# BeVLM: GoT-based Integration of BEV and LLM for Driving with Language
 
 [![CVPR Workshop](https://img.shields.io/badge/CVPR%20Workshop-2024-blue.svg)](https://cvpr2024.org/workshops)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
